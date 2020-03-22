@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		517F75342426F7FA002CA9D2 /* FUCKTHISSHIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FUCKTHISSHIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		517F75342426F7FA002CA9D2 /* FlashCardPart2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlashCardPart2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		517F75372426F7FA002CA9D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		517F75392426F7FA002CA9D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		517F753B2426F7FA002CA9D2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		517F75352426F7FA002CA9D2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				517F75342426F7FA002CA9D2 /* FUCKTHISSHIT.app */,
+				517F75342426F7FA002CA9D2 /* FlashCardPart2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = FUCKTHISSHIT;
 			productName = FUCKTHISSHIT;
-			productReference = 517F75342426F7FA002CA9D2 /* FUCKTHISSHIT.app */;
+			productReference = 517F75342426F7FA002CA9D2 /* FlashCardPart2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -290,8 +290,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.GiannaW.FUCKTHISSHIT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.GiannaW.FlashCardPart2;
+				PRODUCT_NAME = FlashCardPart2;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -307,8 +307,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.GiannaW.FUCKTHISSHIT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.GiannaW.FlashCardPart2;
+				PRODUCT_NAME = FlashCardPart2;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
